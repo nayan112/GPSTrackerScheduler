@@ -5,4 +5,3 @@ yarn remove babel-preset-react-native
 yarn add -D babel-preset-react-native@2.1.0
 
 keytool -genkey -v -keystore my-release-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
-password:gpstracker
